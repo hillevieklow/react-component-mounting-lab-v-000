@@ -15,10 +15,10 @@ class Timer extends Component {
 
 
 
-     componentWillUnmount () {
+   componentWillUnmount () {
 
-       this.stopClock
-    }
+     this.stopClock
+  }
 
 
 
